@@ -1,0 +1,35 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif, "Palatino",
+    Arial
+  color: rgb(0, 0, 0);
+  background-color: #5faae7 }
+  h1 {
+font-family: "Calibri", Garamond, 'Comic Sans' }
+ul.navbar {
+    list-style-type: none;
+padding: 8;
+margin: 5;
+position: absolute;
+top: 17em;
+left: 0em;
+width: 10em }
+h1 {
+    font-family: Helvetica, Geneva, Arial,
+    SunSans-Regular, sans-serif }
+
+    ul.navbar li {
+background: rgb(127, 185, 233);
+margin: 0.5em 0;
+padding: 0.3em;
+border-right: 1em solid black }
+ul.navbar a {
+text-decoration: none }
+a:link {
+color: rgb(0, 0, 0) }
+a:visited {
+color: rgb(255, 0, 255) }
+address {
+margin-top: 1em;
+padding-top: 1em;
+border-top: thin dotted }
